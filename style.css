@@ -1,6 +1,7 @@
 /* global */
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+
 .grid-2{
     display: grid;
     grid-template-columns: repeat(2,1fr);
@@ -28,7 +29,7 @@ a{
     padding-top: 40vh;
     padding-left: 20vw;
     text-align: center;
-    cursor: url('cursor.png'), auto;
+
 }
 
 .section-1 p{
